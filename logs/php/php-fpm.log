@@ -1,0 +1,84 @@
+[07-Nov-2024 19:18:12] NOTICE: fpm is running, pid 3075
+[07-Nov-2024 19:18:12] NOTICE: ready to handle connections
+[07-Nov-2024 19:53:51] NOTICE: Terminating ...
+[07-Nov-2024 19:53:51] NOTICE: Terminating ...
+[07-Nov-2024 19:53:51] NOTICE: exiting, bye-bye!
+[08-Nov-2024 09:18:47] NOTICE: fpm is running, pid 3522
+[08-Nov-2024 09:18:47] NOTICE: ready to handle connections
+[08-Nov-2024 11:07:14] NOTICE: Terminating ...
+[08-Nov-2024 11:07:14] NOTICE: Terminating ...
+[08-Nov-2024 11:07:14] NOTICE: exiting, bye-bye!
+[08-Nov-2024 18:19:33] NOTICE: fpm is running, pid 964
+[08-Nov-2024 18:19:33] NOTICE: ready to handle connections
+[09-Nov-2024 15:49:59] NOTICE: Terminating ...
+[09-Nov-2024 15:49:59] NOTICE: Terminating ...
+[09-Nov-2024 15:49:59] NOTICE: exiting, bye-bye!
+[09-Nov-2024 15:50:06] NOTICE: fpm is running, pid 49048
+[09-Nov-2024 15:50:06] NOTICE: ready to handle connections
+[09-Nov-2024 23:45:02] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:45:02] ERROR: FPM initialization failed
+[09-Nov-2024 23:45:03] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:45:03] ERROR: FPM initialization failed
+[09-Nov-2024 23:45:03] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:45:03] ERROR: FPM initialization failed
+[09-Nov-2024 23:45:04] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:45:04] ERROR: FPM initialization failed
+[09-Nov-2024 23:50:07] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:50:07] ERROR: FPM initialization failed
+[09-Nov-2024 23:50:08] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:50:08] ERROR: FPM initialization failed
+[09-Nov-2024 23:50:08] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:50:08] ERROR: FPM initialization failed
+[09-Nov-2024 23:50:09] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[09-Nov-2024 23:50:09] ERROR: FPM initialization failed
+[10-Nov-2024 00:07:53] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 00:07:53] ERROR: FPM initialization failed
+[10-Nov-2024 00:07:53] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 00:07:53] ERROR: FPM initialization failed
+[10-Nov-2024 00:07:54] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 00:07:54] ERROR: FPM initialization failed
+[10-Nov-2024 00:07:54] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 00:07:54] ERROR: FPM initialization failed
+[10-Nov-2024 08:53:42] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 08:53:42] ERROR: FPM initialization failed
+[10-Nov-2024 08:53:43] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 08:53:43] ERROR: FPM initialization failed
+[10-Nov-2024 08:53:43] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 08:53:43] ERROR: FPM initialization failed
+[10-Nov-2024 08:53:44] ERROR: Another FPM instance seems to already listen on /Users/jpcampora/Library/Application Support/Local/run/u7KRCf6wK/php/php-fpm.socket
+[10-Nov-2024 08:53:44] ERROR: FPM initialization failed
+[10-Nov-2024 12:13:36] NOTICE: fpm is running, pid 1340
+[10-Nov-2024 12:13:36] NOTICE: ready to handle connections
+[10-Nov-2024 12:33:14] NOTICE: Terminating ...
+[10-Nov-2024 12:33:14] NOTICE: Terminating ...
+[10-Nov-2024 12:33:14] NOTICE: exiting, bye-bye!
+[10-Nov-2024 12:34:17] NOTICE: fpm is running, pid 2938
+[10-Nov-2024 12:34:17] NOTICE: ready to handle connections
+[10-Nov-2024 12:34:45] NOTICE: Terminating ...
+[10-Nov-2024 12:34:45] NOTICE: Terminating ...
+[10-Nov-2024 12:34:45] NOTICE: exiting, bye-bye!
+[10-Nov-2024 17:04:45] NOTICE: fpm is running, pid 2497
+[10-Nov-2024 17:04:45] NOTICE: ready to handle connections
+[10-Nov-2024 17:07:26] NOTICE: Terminating ...
+[10-Nov-2024 17:07:26] NOTICE: Terminating ...
+[10-Nov-2024 17:07:26] NOTICE: exiting, bye-bye!
+[10-Nov-2024 17:07:29] NOTICE: fpm is running, pid 5974
+[10-Nov-2024 17:07:29] NOTICE: ready to handle connections
+[10-Nov-2024 17:09:58] NOTICE: Terminating ...
+[10-Nov-2024 17:09:58] NOTICE: Terminating ...
+[10-Nov-2024 17:09:58] NOTICE: exiting, bye-bye!
+[10-Nov-2024 17:10:01] NOTICE: fpm is running, pid 6329
+[10-Nov-2024 17:10:01] NOTICE: ready to handle connections
+[10-Nov-2024 17:28:43] NOTICE: Terminating ...
+[10-Nov-2024 17:28:43] NOTICE: Terminating ...
+[10-Nov-2024 17:28:43] NOTICE: exiting, bye-bye!
+[10-Nov-2024 17:29:40] NOTICE: fpm is running, pid 7410
+[10-Nov-2024 17:29:40] NOTICE: ready to handle connections
+[10-Nov-2024 17:29:52] NOTICE: Terminating ...
+[10-Nov-2024 17:29:52] NOTICE: Terminating ...
+[10-Nov-2024 17:29:52] NOTICE: exiting, bye-bye!
+[10-Nov-2024 17:29:56] NOTICE: fpm is running, pid 7466
+[10-Nov-2024 17:29:56] NOTICE: ready to handle connections
+[10-Nov-2024 17:31:02] NOTICE: Terminating ...
+[10-Nov-2024 17:31:02] NOTICE: Terminating ...
+[10-Nov-2024 17:31:02] NOTICE: exiting, bye-bye!
